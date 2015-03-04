@@ -55,8 +55,6 @@ options: string
 ## Demo
 <a href="http://codepen.io/mel/full/OPXNaq" target="_blank">codepen.io/mel/full/OPXNaq</a>
 ## License
-December 2014 <br />
-progressScroll 1.1.0 <br />
 @author Mario Vidov <br />
 @url <a href="http://vidov.it" target="_blank">www.vidov.it</a> <br />
 @twitter  <a href="http://twitter.com/MarioVidov" target="_blank">MarioVidov</a> <br />
