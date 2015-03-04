@@ -14,16 +14,43 @@ bower install progressscroll
 $(selector).progressScroll();
 ```
 ## Configuration
+#####width
 ```javascript
-{
-    width: number, // default: 100
-    height: number, // default: 100
-    borderSize: number, // default: 10
-    mainBgColor: "", // default: "E6F4F7"
-    lightBorderColor: "", // default: "#A2ECFB"
-    darkBorderColor: "", // default: "#39B4CC"
-    fontSize: "" // default: "30px"
-}
+default: 100
+options: integer
+```
+#####height
+```javascript
+default: 100
+options: integer
+```
+#####borderSize
+```javascript
+default: 10
+options: integer
+```
+#####mainBgColor
+inner counter background color
+```javascript
+default: "#E6F4F7"
+options: string
+```
+#####lightBorderColor
+main border color
+```javascript
+default: "#A2ECFB"
+options: string
+```
+#####darkBorderColor
+filled border color
+```javascript
+default: "#39B4CC"
+options: string
+```
+#####fontSize
+```javascript
+default: "30px"
+options: string
 ```
 ## Demo
 <a href="http://codepen.io/mel/full/OPXNaq" target="_blank">codepen.io/mel/full/OPXNaq</a>
