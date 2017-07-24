@@ -14,40 +14,40 @@ bower install progressscroll
 $(selector).progressScroll();
 ```
 ## Configuration
-#####width
+#### width
 ```javascript
 default: 100
 options: integer
 ```
-#####height
+#### height
 ```javascript
 default: 100
 options: integer
 ```
-#####borderSize
+#### borderSize
 ```javascript
 default: 10
 options: integer
 ```
-#####mainBgColor
+#### mainBgColor
 inner counter background color
 ```javascript
 default: "#E6F4F7"
 options: string
 ```
-#####lightBorderColor
+#### lightBorderColor
 main border color
 ```javascript
 default: "#A2ECFB"
 options: string
 ```
-#####darkBorderColor
+#### darkBorderColor
 filled border color
 ```javascript
 default: "#39B4CC"
 options: string
 ```
-#####fontSize
+#### fontSize
 ```javascript
 default: "30px"
 options: string
